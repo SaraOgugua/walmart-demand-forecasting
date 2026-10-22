@@ -8,3 +8,14 @@ data/processed/*.csv
 # Python cache and test files
 __pycache__/
 .pytest_cache/
+
+# macOS system files
+.DS_Store
+
+# Local MLflow tracking
+mlflow.db
+mlruns/
+
+# Local environment and generated files
+.env
+*.pyc

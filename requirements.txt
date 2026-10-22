@@ -11,3 +11,5 @@ pytest==9.1.1
 prefect==3.8.8
 fastapi==0.143.1
 uvicorn==0.54.0
+streamlit==1.65.0
+plotly
